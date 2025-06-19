@@ -17,6 +17,7 @@ I enjoy building innovative solutions, collaborating with others, and exploring 
 - Programming Languages: <!-- Add your top languages here (e.g., Python, JavaScript, etc.) -->
 - Frameworks & Libraries: <!-- Add frameworks you love (e.g., React, Django, etc.) -->
 - Tools & Platforms: <!-- List tools or platforms (e.g., Git, Docker, AWS, etc.) -->
+- Ethical Hacking
 
 ---
 
